@@ -1,0 +1,147 @@
+{
+  "seller": [
+    {
+      "id": "52e2",
+      "name": "osama",
+      "password": "abc123",
+      "email": "osama@seller.com"
+    },
+    {
+      "id": "78f8",
+      "name": "nora",
+      "password": "abc123",
+      "email": "nora@seller.com"
+    },
+    {
+      "id": "0ca2",
+      "name": "sara",
+      "password": "abc123",
+      "email": "sara@seller.com"
+    },
+    {
+      "name": "baba",
+      "password": "abc123",
+      "email": "baba@seller.com",
+      "id": "x4uaG4F"
+    },
+    {
+      "name": "osama",
+      "password": "osamaabc",
+      "email": "osama@seller.com",
+      "id": "-_EA53C"
+    }
+  ],
+  "products": [
+    {
+      "name": "Noise Smart Watch",
+      "price": "2000",
+      "category": "Watch",
+      "color": "Black",
+      "description": "Noise smart watch for man and women both",
+      "image": "https://www.reliancedigital.in/medias/Noise-Colorfit-Pro-2-Smart-Watch-491900986-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3w1MDc0NXxpbWFnZS9qcGVnfGltYWdlcy9oYzkvaDdjLzk1OTE4MjA3NDY3ODIuanBnfDA3MjZlMzkzOTExYzMyNzk5Y2YzOTk0MWFkMjc5YjE5OTlkMDE4NzYzYTg1YzQ2YmNjZjMxYzc5ZDJiYjBlNDg",
+      "id": 1
+    },
+    {
+      "name": "Levies Jeans",
+      "price": "5000",
+      "category": "Jeans",
+      "color": "blue",
+      "description": "Confirmable jeans for man",
+      "image": "https://www.filmibeat.com/wimg/desktop/2012/12/13548612746596.jpg",
+      "id": 2
+    },
+    {
+      "name": "Nike Shoes",
+      "price": "3000",
+      "category": "Shoes",
+      "color": "Black",
+      "description": "Best shoes for Running",
+      "image": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/03f2439b-618a-4dd3-a37b-5dd8a1e803f1/AIR+MAX+270.png",
+      "id": 3
+    },
+    {
+      "name": " HP Laptop",
+      "price": "50000",
+      "category": "Laptop",
+      "color": "black",
+      "description": "Hp laptop for student and professionals",
+      "image": "https://www.91-cdn.com/hub/wp-content/uploads/2022/07/Top-laptop-brands-in-India.jpg",
+      "id": 4
+    },
+    {
+      "name": "I phone 14",
+      "price": "100000",
+      "category": "mobile",
+      "color": "white",
+      "description": "An Apple Product",
+      "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSOO1JDPUNwcPiqzHYhaL_zpJA0Ymlr6mD9sSgTPad_JYdrk-o",
+      "id": 5
+    },
+    {
+      "name": "Nike Shoes",
+      "price": "15000",
+      "category": "shoes",
+      "color": "red",
+      "description": "Best shoes for walking",
+      "image": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/c79654db-d568-4e5e-b0d7-90b6df387d7e/AIR+MAX+270.png",
+      "id": 6
+    }
+  ],
+  "users": [
+    {
+      "name": "osama",
+      "password": "abc123",
+      "email": "osama@user.com",
+      "id": 1
+    },
+    {
+      "name": "sara",
+      "password": "abc123",
+      "email": "sara@user.com",
+      "id": 2
+    }
+  ],
+  "cart": [],
+  "orders": [
+    {
+      "email": "",
+      "address": "",
+      "contact": "",
+      "totalPrice": 2100,
+      "userId": 1,
+      "id": 1
+    },
+    {
+      "email": "",
+      "address": "",
+      "contact": "",
+      "totalPrice": 2100,
+      "userId": 1,
+      "id": 2
+    },
+    {
+      "email": "osama@user.com",
+      "address": "lattkai",
+      "contact": "+9639947521",
+      "totalPrice": 5100,
+      "userId": 1,
+      "id": 3
+    },
+    {
+      "email": "sara@user.com",
+      "address": "lattkai",
+      "contact": "+9639947521",
+      "totalPrice": 2100,
+      "userId": 2,
+      "id": 5
+    },
+    {
+      "email": "sara@user.com",
+      "address": "lattkai",
+      "contact": "+9639947521",
+      "totalPrice": 60100,
+      "userId": 2,
+      "id": 6
+    }
+  ]
+}
